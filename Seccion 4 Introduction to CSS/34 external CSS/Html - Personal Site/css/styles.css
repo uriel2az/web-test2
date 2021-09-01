@@ -18,6 +18,10 @@ hr {/*this will apply to all horizontal rules we have in the body*/
 
 
 h1 {
-	color: green;
+	color: #66BFBF;
 	
       }
+
+h3 {
+	color: #66BFBF; 
+     }
