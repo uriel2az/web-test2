@@ -15,3 +15,9 @@ hr {/*this will apply to all horizontal rules we have in the body*/
         width: 5%; /* 30% of the entire screen */
 
       }
+
+
+h1 {
+	color: green;
+	
+      }
